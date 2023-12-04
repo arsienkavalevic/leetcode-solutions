@@ -1,2 +1,2 @@
-# leetcode-solutions
-Solutions to some problems from LeetCode
+# LeetCode solutions
+List of tasks: https://seanprashad.com/leetcode-patterns/
